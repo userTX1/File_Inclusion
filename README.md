@@ -2,7 +2,7 @@
 文件包含漏洞利用工具
 #本工具只检测文件包含漏洞GET方法，POST方法后续补充
 使用方法
-1.漏洞检测格式:https://地址:端口/。
+1.漏洞检测格式:https://地址:端口/xxx.php?xxx={}。
 2.代理格式:http://地址:端口
 3.Cookie格式:'Cookie: security=icascne; PHPSESSID=1d0pdvk4q131cavgsicd13vopj4n55'。
 4.删除代理地址单击代理按钮可以关闭代理。
