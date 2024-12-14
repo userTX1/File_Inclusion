@@ -1,4 +1,4 @@
-# poc-tool
+# File_Inclusion
 文件包含漏洞利用工具
 #本工具只检测文件包含漏洞GET方法，POST方法后续补充
 使用方法
